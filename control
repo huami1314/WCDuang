@@ -1,0 +1,9 @@
+Package: com.huami.WCDuang
+Name: WCDuang
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: WCDuang
+Maintainer: huami
+Author: huami
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
